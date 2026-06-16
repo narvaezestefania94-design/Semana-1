@@ -1,0 +1,9 @@
+La relación entre estos tres elementos es directa: el uso responsable de la 
+información en internet permite que las personas distingan datos fiables, evitando 
+la desinformación y fortaleciendo una ciudadanía crítica. Esa ciudadanía informada
+puede participar activamente en debates públicos, veedurías y procesos 
+democráticos digitales con mayor impacto. A su vez, la organización del trabajo
+técnico con herramientas como Git fomenta la colaboración transparente, el 
+control de versiones y la trazabilidad, principios que también fortalecen la 
+participación ciudadana digital. En conjunto, promueven una cultura de
+responsabilidad, cooperación y construcción colectiva del conocimiento.
